@@ -2,6 +2,8 @@ import math
 
 numbers = [5, 7, 11]
 
-result = sum([math.factorial(n) for n in numbers])
+total = 0 
+for n in numbers:
+    total += math.factorial(n) 
 
-print(result)
+print(total)
