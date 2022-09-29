@@ -1,0 +1,14 @@
+[build-system]
+requires = ["setuptools", "setuptools-scm"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "packt_package"
+description = "An example package"
+dependencies = [
+        "flask",
+        "python-dateutil",
+]
+
+[project.scripts]
+example-script = "packt_package._main:main"
