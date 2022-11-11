@@ -9,7 +9,7 @@ This is the code repository for [The Python Workshop - Second Edition](https://w
 ## What is this book about?
 Have you always wanted to learn Python, but never quite known how to start?
 
-* This book covers the following exciting features:
+This book covers the following exciting features:
 * Write efficient and concise functions using core Python methods and libraries
 * Build classes to address different business needs
 * Create visual graphs to communicate key data insights
@@ -68,7 +68,8 @@ is the data and analytics manager at Vesparum Capital. He leads the software and
 **Dr. Lau Cher Han**
 is a chief data scientist and is currently the CEO of LEAD, an institution that provides programs on data science, full-stack web development, and digital marketing. Well-versed in programming languages such as JavaScript, Python, C#, and so on, he is experienced in MEAN Stack, ASP.NET, and Python Django web frameworks. He is multilingual and speaks English, Chinese, and Bahasa fluently. His knowledge of Chinese even includes its dialects of Hokkien, Teochew, and Cantonese.
 
-****
+**Graham Lee**
+is an experienced programmer and writer. He has written several books, including Professional Cocoa Application Security, Test-Driven iOS Development, APPropriate Behaviour, and APPosite Concerns. He is a developer who's been programming for long enough to want to start telling other people about the mistakes he's made in the hope that they'll avoid repeating them. In his case, this means having worked for about 12 years as a professional. His first programming experience can hardly be called professional at all, as it was in BASIC on a Dragon 32 microcomputer.
 
 ## Other books by the authors
 * [Hands-On Gradient Boosting with XGBoost and scikit-learn](https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354?utm_source=github&utm_medium=repository&utm_campaign=9781839218354)
