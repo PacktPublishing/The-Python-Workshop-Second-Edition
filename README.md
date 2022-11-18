@@ -74,3 +74,8 @@ is an experienced programmer and writer. He has written several books, including
 ## Other books by the authors
 * [Hands-On Gradient Boosting with XGBoost and scikit-learn](https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354?utm_source=github&utm_medium=repository&utm_campaign=9781839218354)
 * [The Python Workshop](https://www.packtpub.com/product/the-python-workshop/9781839218859?utm_source=github&utm_medium=repository&utm_campaign=9781839218859)
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781804610619">https://packt.link/free-ebook/9781804610619 </a> </p>
