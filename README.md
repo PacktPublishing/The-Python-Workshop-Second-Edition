@@ -22,6 +22,13 @@ If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1804
 <a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" 
 alt="https://www.packtpub.com/" border="5" /></a>
 
+## Errata
+
+* Page 478: Bullet point no. 1 must read "Head to the notebook file that you used for exercises 148-153 and run all the cells in the notebook
+so that all the variables are stored." instead of "Head to the notebook file that you used for exercises 147-151 and run all the cells in the notebook
+so that all the variables are stored."
+* Page 525: Figure caption for Figure 12.37 must be read as "An output for Activity 27 with 91% accuracy" instead of "Figure 12.37 – An output for Activity 26 with 91% accuracy"
+
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter02.
 
@@ -37,13 +44,6 @@ print(s3)
 
 **Following is what you need for this book:**
 This book is for professionals, students, and hobbyists who want to learn Python and apply it to solve challenging real-world problems. Although this is a beginner’s course, you’ll learn more easily if you already have an understanding of standard programming topics like variables, if-else statements, and functions. Experience with another object-oriented program, though not essential, will also be beneficial. If Python is your first attempt at computer programming, this book will help you understand the basics with adequate detail for a motivated student.
-
-## Errata
-
-* Page 478: Bullet point no. 1 must read "Head to the notebook file that you used for exercises 148-153 and run all the cells in the notebook
-so that all the variables are stored." instead of "Head to the notebook file that you used for exercises 147-151 and run all the cells in the notebook
-so that all the variables are stored."
-* Page 525: Figure caption for Figure 12.37 must be read as "An output for Activity 27 with 91% accuracy" instead of "Figure 12.37 – An output for Activity 26 with 91% accuracy"
 
 With the following software and hardware list you can run all code files present in the book (Chapter 1-13).
 ### Software and Hardware List
