@@ -1,6 +1,7 @@
-"""This script computes the factorial for a list of numbers"""
-
 import math
 
-def compute(numbers):
-    return sum([math.factorial(n) for n in numbers])
+def factorial_sum(numbers):
+    total = 0 
+    for n in numbers: 
+        total += math.factorial(n) 
+    return total 
