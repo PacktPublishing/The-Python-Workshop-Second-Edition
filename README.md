@@ -28,6 +28,14 @@ alt="https://www.packtpub.com/" border="5" /></a>
 ## Errata
 
 * Page 49: Bullet point no. 7 must be read as "Initialize the for loop from offer to highest: ```while offer <= highest:```"
+* Page 52: In step 5, the correct code block should be:
+```
+name="Alenna" 
+for i in range(3): 
+    for i in name: 
+        print(i) 
+    print("!")
+```
 * Page 76: The output for aretha should be ('aretha', 75)
 * Page 478: Bullet point no. 1 must read "Head to the notebook file that you used for exercises 148-153 and run all the cells in the notebook
 so that all the variables are stored." instead of "Head to the notebook file that you used for exercises 147-151 and run all the cells in the notebook
